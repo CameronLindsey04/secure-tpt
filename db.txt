@@ -1,0 +1,61 @@
+CREATE DATABASE termproj;
+
+USE termproj;
+
+CREATE TABLE assignments
+(
+    id int primary key auto_increment,
+    student varchar(255),
+    email varchar(255),
+    topic varchar(255)
+);
+
+
+INSERT INTO assignments (student, email, topic) VALUES (
+'Alkire, Justin','jalkire','AWS');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Andrews, Landon','mandrews3','AI Red');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Bays, Gage','ebays','AWS');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Brown, Tuesday','tbrown31','Kotlin');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Cisco, Will','wcisco','AI Blue');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Conkle, Jason','jconkle','GCP');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Copley, Carly','ccopley1','AWS');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Duran, Hayden','mduran','AI Red');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Fielder, Jacob','jfielder','AI Blue');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Garvit, Garvit','ggarvit','GCP');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Hall, Jonathan','jhall22','AWS');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Harvey, Jackson','jharvey2','Swift');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Huerta Mejia, Emilio','ehuertamejia','Kotlin');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Lemoine, Laura','llemoine','Kotlin');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Love, Victor','vlove','GCP');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Malhotra, Paridhi','pmalhotra1','AI Blue');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Martin, Robert','rmartin8','AI Red');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Moore, Connor','cmoore32','Swift');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Sasaki, Shun','ssasaki1','Swift');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Senecal, Samuel','ssenecal','AI Blue');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Singh, Akshansh','asingh12','AI Red');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Strait, Bailee','bstrait','Swift');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Tuteja, Prayanshu','ptuteja','GCP');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Wargo, Graysen','gwargo','Kotlin');
