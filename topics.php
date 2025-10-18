@@ -3,7 +3,7 @@
 // first make sure that Mallory is not trying
 // to navigate directly here with the browser
 // by attempting to bypass the login form,
-// if you detect such an attemp send Mallory 
+// if you detect such an attempt send Mallory 
 // back to the start and exit (there is no
 // point doing any more processing!!
 
