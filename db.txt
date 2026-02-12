@@ -12,50 +12,58 @@ CREATE TABLE assignments
 
 
 INSERT INTO assignments (student, email, topic) VALUES (
-'Alkire, Justin','jalkire','AWS');
+'Brewer, Whit','wbrewer3','OpenAPI');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Andrews, Landon','mandrews3','AI Red');
+'Nguyen, Tuyet','tnguyen27','OpenAPI');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Bays, Gage','ebays','AWS');
+'Nunley, Alex','anunley','Kubernetes');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Brown, Tuesday','tbrown31','Kotlin');
+'Pittman, Bryce','bpittman2','Swift');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Cisco, Will','wcisco','AI Blue');
+'Weatherford, John','jweatherford2','Kotlin');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Conkle, Jason','jconkle','GCP');
+'Archer, Isabella','iarcher','OpenAPI');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Copley, Carly','ccopley1','AWS');
+'Batta, Arun','abatta','GitHub Actions');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Duran, Hayden','mduran','AI Red');
+'Beasley, Erika','ebeasley1','Swift');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Fielder, Jacob','jfielder','AI Blue');
+'Bradley, Josh','jbradley6','Swift');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Garvit, Garvit','ggarvit','GCP');
+'Calvert, Jace','jcalvert6','FastAPI');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Hall, Jonathan','jhall22','AWS');
+'Cantrell, Cohen','ccantrell2','GitHub Actions');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Harvey, Jackson','jharvey2','Swift');
+'Durham, Brandon','bdurham2','AI/ML');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Huerta Mejia, Emilio','ehuertamejia','Kotlin');
+'Ehlendt, Corbin','cehlendt','OpenAPI');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Lemoine, Laura','llemoine','Kotlin');
+'Goodwin, Dylan','dgoodwin3','Kubernetes');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Love, Victor','vlove','GCP');
+'Hamlin, Van','vhamlin','Kubernetes');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Malhotra, Paridhi','pmalhotra1','AI Blue');
+'Hasan, Saimon','shasan1','Swift');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Martin, Robert','rmartin8','AI Red');
+'McElvey, Andrew','hmcelvey','AI/ML');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Moore, Connor','cmoore32','Swift');
+'Mullins, Ethan','emullins4','FastAPI');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Sasaki, Shun','ssasaki1','Swift');
+'Nasser, Zack','znasser','GitHub Actions');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Senecal, Samuel','ssenecal','AI Blue');
+'Ngulungu, Syviwha','sngulungu','FastAPI');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Singh, Akshansh','asingh12','AI Red');
+'Patel, Preya','ppatel68','GitHub Actions');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Strait, Bailee','bstrait','Swift');
+'Ramsey, Snoe','mramsey4','Kotlin');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Tuteja, Prayanshu','ptuteja','GCP');
+'Sager, Evan','esager','Kotlin');
 INSERT INTO assignments (student, email, topic) VALUES (
-'Wargo, Graysen','gwargo','Kotlin');
+'Schmidt, Gunnar','gschmidt1','FastAPI');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Sharpston, Olivia','osharpston','Kotlin');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Trousdale, Kaden','ktrousdale4','AI/ML');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Vandervort, Junior','hvandervort1','AI/ML');
+INSERT INTO assignments (student, email, topic) VALUES (
+'Wise, Matthew','wwise2','Kubernetes');
