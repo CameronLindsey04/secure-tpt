@@ -1,4 +1,5 @@
 <?php
+    header("Location: topics.php");
 
 // this is a PHP file (not web page)
 // this is intended for server-side processing only
